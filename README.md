@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @SantiCZ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..# 💫 About Me:
-I'm currently a computer engineering student, i am exoanding my knwledge in back-end development. <br>I am currently learning SQL and PHP. <br>Outside tech i like videogames and listening to music.
+- 👀 I’m interested in Back-end and software development
+- 🌱 I’m currently learning: SQL and PHP. 
+- 💞️ I’m looking to collaborate on open souce prijects
+- 📫 How to reach me at: santiagostinicz@gmail.com
+- 💫 About Me:I'm currently a computer engineering student, i am exoanding my knwledge in back-end development. Outside tech i like videogames and listening to music.
+
 
 
 ## 🌐 Socials:
