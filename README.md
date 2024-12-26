@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SantiCZ
 - 👀 I’m interested in Back-end and software development
-- 🌱 I’m currently learning: SQL and PHP. 
+- 🌱 I’m currently learning: c++ and java
 - 💞️ I’m looking to collaborate on open souce prijects
 - 📫 How to reach me at: santiagostinicz@gmail.com
 - 💫 About Me:I'm currently a computer engineering student, i am exoanding my knwledge in back-end development. Outside tech i like videogames and listening to music.
