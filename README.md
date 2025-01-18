@@ -27,8 +27,8 @@
 [![](https://visitcount.itsvg.in/api?id=SantiCZ&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact:...
 
 <!---
 SantiCZ/SantiCZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
