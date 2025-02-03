@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SantiCZ
-- 👀 I’m interested in Back-end and software development
+- 👀 I’m interested in Software development, Machine learning and Cybersecurity
 - 🌱 I’m currently learning: c++ and java
 - 💞️ I’m looking to collaborate on open souce prijects
 - 📫 How to reach me at: santiagostinicz@gmail.com
